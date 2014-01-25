@@ -1,0 +1,10 @@
+{
+    "name": "gallery-charts-3-14-patch",
+    "builds": {
+        "gallery-charts-3-14-patch": {
+            "jsfiles": [
+                "Charts3-14-Patch.js"
+            ]
+        }
+    }
+}

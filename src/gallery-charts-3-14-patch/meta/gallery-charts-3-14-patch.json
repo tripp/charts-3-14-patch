@@ -1,0 +1,7 @@
+{
+    "gallery-charts-3-14-patch": {
+        "requires": [
+            "Charts-3-14-Patch.js"
+        ]
+    }
+}
