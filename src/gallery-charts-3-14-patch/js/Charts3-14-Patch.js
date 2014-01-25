@@ -888,6 +888,4 @@
 
             return Y.merge(Y.Renderer.prototype._getDefaultStyles(), axisstyles);
         };
-
     }
-
